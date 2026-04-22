@@ -1,0 +1,10 @@
+Month,Sales,Cost,Category
+Jan,200,120,Food
+Feb,,150,Food
+Mar,180,130,Tech
+April,300,,Tech
+May,400,250,Clothes
+Jun,350,200,
+July,420,260,Food
+Aug,390,240,Food
+Aug,390,240,Tech
